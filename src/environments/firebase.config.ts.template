@@ -1,12 +1,12 @@
 export const firebaseConfig = {
-  apiKey: '<API_KEY>',
-  authDomain: '<PROJECT_ID>.firebaseapp.com',
-  databaseURL: 'https://<DATABASE_NAME>.firebaseio.com',
-  projectId: '<PROJECT_ID>',
-  storageBucket: '<BUCKET>.appspot.com',
-  messagingSenderId: '<SENDER_ID>',
+  apiKey: 'AIzaSyDbyWr0RU-37V1Wws-OTQ_a67Ykyb1DtVk',
+  authDomain: 'devfest-delorean.firebaseapp.com',
+  databaseURL: 'https://devfest-delorean.firebaseio.com',
+  projectId: 'devfest-delorean',
+  storageBucket: 'devfest-delorean.appspot.com',
+  messagingSenderId: 'matt@gdgla.org',
   // Firebase node which your data will be stored (ex. 2017)
-  devfestYear: '2017',
+  devfestYear: '2019',
   // Your Google Maps API key
-  mapsKey: '<MAPS_API_KEY>'
+  mapsKey: 'AIzaSyBGrFmuNFiD6ciRyjJSAOqigysVK4Y_csE'
 };
